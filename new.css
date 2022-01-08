@@ -1,0 +1,17 @@
+html   {
+    height: 100%;
+    margin: 0;
+
+}
+body   {
+    margin: 0;
+    background: linear-gradient(180deg, rgb(102, 99, 92), rgb(128, 89, 24)) fixed;
+    height: 100%;
+    overflow-anchor: none;
+}
+
+
+#page-wrap {
+    width: 800px;
+    margin: 0 auto;
+}
