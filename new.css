@@ -4,8 +4,8 @@ html   {
 
 }
 body   {
-    margin: 0;
-    background: linear-gradient(180deg, rgb(102, 99, 92), rgb(128, 89, 24)) fixed;
+    margin: 0 auto;
+    background: linear-gradient(180deg, rgb(71, 70, 69), rgb(226, 146, 8)) fixed;
     height: 100%;
     overflow-anchor: none;
 }
